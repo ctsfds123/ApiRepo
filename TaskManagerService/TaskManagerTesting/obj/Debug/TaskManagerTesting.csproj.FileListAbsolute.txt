@@ -1,0 +1,17 @@
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\TaskManagerTesting.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\TaskManagerTesting.pdb
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\obj\Debug\TaskManagerTesting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\obj\Debug\TaskManagerTesting.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\obj\Debug\TaskManagerTesting.pdb
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Net.Http.Formatting.xml
