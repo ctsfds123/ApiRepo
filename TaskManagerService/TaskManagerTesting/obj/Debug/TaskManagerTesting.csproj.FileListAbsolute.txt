@@ -15,3 +15,6 @@ C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManag
 C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Web.Http.xml
 C:\Users\Administrator\Downloads\TaskManagerService\taskmanagerservice\TaskManagerTesting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerTesting\obj\Debug\TaskManagerTesting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerTesting\obj\Debug\TaskManagerTesting.dll
+C:\Users\Administrator\Desktop\ApiRepo\TaskManagerService\TaskManagerTesting\obj\Debug\TaskManagerTesting.pdb
