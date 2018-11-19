@@ -1,8 +1,8 @@
 language: csharp
 solution: ./TaskManagerService/TaskManagerService.sln
 install:
-  -nuget restore ./TaskManagerService/TaskManagerService.sln
-  -nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory UnitTestResults
+  - nuget restore ./TaskManagerService/TaskManagerService.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory UnitTestResults
 script:
-  -xbuild /p:Configuration=Release ./TaskManagerService/TaskManagerService.sln
-  -mono ./UnitTestResults/NUnit.Runners.2.6.4/tools/nunit-console.exe ./MyProject.Tests/bin/Release/MyProject.Tests.dll
+  - xbuild /p:Configuration=Release ./TaskManagerService/TaskManagerService.sln
+  - mono ./UnitTestResults/NUnit.Runners.2.6.4/tools/nunit-console.exe ./MyProject.Tests/bin/Release/MyProject.Tests.dll
