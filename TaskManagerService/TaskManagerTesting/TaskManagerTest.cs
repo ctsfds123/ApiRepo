@@ -14,7 +14,12 @@ namespace TaskManagerTesting
             TaskManagerController ctrl = new TaskManagerController();
 
             TaskDetailsModel task = new TaskDetailsModel();
-            task.ParentTaskName = "Task1";
+            task.TaskName = "Task2";
+            task.StartDate = DateTime.Now;
+            task.EndDate = DateTime.Now.AddDays(15);
+            task.IsEnded = false;
+            task.ParentTaskName = "Parent Task2";
+            task.Priority = 1;
 
             ctrl.AddTask(task);
         }
@@ -22,10 +27,7 @@ namespace TaskManagerTesting
         public void Test_ViewTask()
         {
             TaskManagerController ctrl = new TaskManagerController();
-
             TaskDetailsModel task = new TaskDetailsModel();
-            task.ParentTaskName = "Task1";
-            
             ctrl.ViewTask(task);
         }
         [TestMethod]
@@ -34,7 +36,12 @@ namespace TaskManagerTesting
             TaskManagerController ctrl = new TaskManagerController();
 
             TaskDetailsModel task = new TaskDetailsModel();
-            task.ParentTaskName = "Task1";
+            task.TaskId = 2;
+            task.TaskName = "Task2";
+            task.StartDate = DateTime.Now;
+            task.EndDate = DateTime.Now.AddDays(30);
+            task.ParentTaskName = "Parent Task5";
+            task.Priority = 1;
 
             ctrl.UpdateTask(task);
         }
@@ -43,10 +50,9 @@ namespace TaskManagerTesting
         {
             TaskManagerController ctrl = new TaskManagerController();
 
-            TaskDetailsModel task = new TaskDetailsModel();
-            task.ParentTaskName = "Task1";
+            int taskid = 1;
 
-            ctrl.EndTask(task.TaskId);
+            ctrl.EndTask(taskid);
         }
     }
 }
