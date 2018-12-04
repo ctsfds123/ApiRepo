@@ -1,2 +1,2 @@
 language: csharp
-solution: ./TaskManagerService/TaskManagerService.sln
+solution: TaskManagerService.sln
