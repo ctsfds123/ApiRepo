@@ -21,7 +21,7 @@ namespace TaskManagerService.ViewModel
         public DateTime StartDate { get; set; }
         [DataMember]
         public DateTime EndDate { get; set; }
-        [DataMember]//(IsRequired = false)
+        [DataMember]
         public bool IsEnded { get; set; } 
     }
 }
